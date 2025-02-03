@@ -14,7 +14,7 @@
 
 <div align="center">
   <h2 style="color: blue;"> Descargar Ahora</h2>
-  <a href="https://aiapk.net/games/tap-tap-china">
+  <a href="https://aiapk.net/apps/gamelogia-free">
     <img src="https://s.gamelogiafree.org/images/github-download-icon.webp" width="200" height="45" alt="Download Tap Tap China APK">
   </a>
 </div>
